@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  API_HOST: "http://localhost:8000"
+  API_HOST: "https://asa-todo-app-utility-service.azuremicroservices.io/task-service"
 };
